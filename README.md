@@ -64,6 +64,8 @@ $account = SendinblueWrapper::get_account();
 …
 ```
 
+## Credits:
+
 Project forked from vansteen/sendinblue
 
 [1]: http://laravel.com/
